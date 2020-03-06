@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="2020.02.17">
+      <UniqueIdentifier>{2ff4632f-b536-45d0-a635-8e951357e8e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2020.02.20">
+      <UniqueIdentifier>{319edc70-7f88-4b21-ab81-7f9920925bc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2020.02.22">
+      <UniqueIdentifier>{ae88dbdf-83dd-4121-b877-57df2b9074f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2020.02.23">
+      <UniqueIdentifier>{40539550-6822-4a53-a087-03989c7a0b22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2020.02.24">
+      <UniqueIdentifier>{0ec3e0cd-688a-45b9-8ae2-3c96a72a3921}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2020.02.29">
+      <UniqueIdentifier>{1ab5690c-0e82-4b27-8584-6f1e4509c68e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="4673.cpp">
+      <Filter>2020.02.17</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.cpp">
+      <Filter>2020.02.17</Filter>
+    </ClCompile>
+    <ClCompile Include="11654.cpp">
+      <Filter>2020.02.20</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.cpp">
+      <Filter>2020.02.20</Filter>
+    </ClCompile>
+    <ClCompile Include="10809.cpp">
+      <Filter>2020.02.22</Filter>
+    </ClCompile>
+    <ClCompile Include="2675.cpp">
+      <Filter>2020.02.22</Filter>
+    </ClCompile>
+    <ClCompile Include="1157.cpp">
+      <Filter>2020.02.22</Filter>
+    </ClCompile>
+    <ClCompile Include="1152.cpp">
+      <Filter>2020.02.22</Filter>
+    </ClCompile>
+    <ClCompile Include="2908.cpp">
+      <Filter>2020.02.23</Filter>
+    </ClCompile>
+    <ClCompile Include="5622.cpp">
+      <Filter>2020.02.23</Filter>
+    </ClCompile>
+    <ClCompile Include="2941.cpp">
+      <Filter>2020.02.23</Filter>
+    </ClCompile>
+    <ClCompile Include="1712.cpp">
+      <Filter>2020.02.23</Filter>
+    </ClCompile>
+    <ClCompile Include="2869.cpp">
+      <Filter>2020.02.23</Filter>
+    </ClCompile>
+    <ClCompile Include="1316.cpp">
+      <Filter>2020.02.24</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="1978.cpp">
+      <Filter>2020.02.29</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
