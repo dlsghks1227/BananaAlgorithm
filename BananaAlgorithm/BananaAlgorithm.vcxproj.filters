@@ -25,6 +25,9 @@
     <Filter Include="2020.03.15">
       <UniqueIdentifier>{03f45705-2dee-47ff-bed2-ae11b2193878}</UniqueIdentifier>
     </Filter>
+    <Filter Include="2020.04.10">
+      <UniqueIdentifier>{49a5c923-c18f-477f-a912-a4af8024f792}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="한수%281065%29.cpp">
@@ -89,6 +92,21 @@
     </ClCompile>
     <ClCompile Include="별 찍기 - 5%282442%29.cpp">
       <Filter>2020.03.15</Filter>
+    </ClCompile>
+    <ClCompile Include="사분면 고르기%2814681%29.cpp">
+      <Filter>2020.04.10</Filter>
+    </ClCompile>
+    <ClCompile Include="평균 점수(10039).cpp">
+      <Filter>2020.04.10</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 13(2523).cpp">
+      <Filter>2020.04.10</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 9(2446).cpp">
+      <Filter>2020.04.10</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 21(10996).cpp">
+      <Filter>2020.04.10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
